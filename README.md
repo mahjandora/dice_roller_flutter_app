@@ -1,6 +1,10 @@
-# first_app
+🎲 Dice Roller App  
 
-A new Flutter project.
+A simple Flutter app where users can roll a virtual die by tapping a button.  
+
+## 📸 Screenshots 
+
+![Dice Rolled](assets/screenshots/*) 
 
 ## Getting Started
 
