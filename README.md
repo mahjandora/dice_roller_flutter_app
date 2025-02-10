@@ -1,6 +1,8 @@
-# first_app
+# Dice Roller App
 
-A new Flutter project.
+The Dice Roller App is a simple and interactive Flutter application where users can roll a virtual die with a single tap. Upon clicking the text button, the app generates a random dice value and updates the UI accordingly.
+## 📸 Screenshots 
+
 
 ## Getting Started
 
